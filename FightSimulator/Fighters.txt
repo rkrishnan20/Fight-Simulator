@@ -1,0 +1,7 @@
+Superman,1.31*10^25,3*10^8,false
+Darth Vader,2*10^5,340,false
+Hulk,3*10^14,100,false
+Voldemort,500,20,true
+
+
+
